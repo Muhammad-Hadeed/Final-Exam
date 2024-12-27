@@ -42,4 +42,4 @@ POST /reviews: Post a new review for an attraction.
 GET /reviews: Get all reviews.
 GET /visitors/activity: Get visitor activities.
 
-Conclusion: This project have been done with a great help of "AI" BUT I assure you to understand all the main and related aspects used in this project as a whole This project successfully integrates frontend and backend technologies to create a functional tourism management system. The application enables visitors to interact with attractions, post reviews, and view real-time statistics.
+Conclusion: This project have been done with a great help of "AI" and needs some work BUT I assure you to understand all the main and related aspects used in this project as a whole This project successfully integrates frontend and backend technologies to create a functional tourism management system. The application enables visitors to interact with attractions, post reviews, and view real-time statistics.
