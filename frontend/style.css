@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #007bff;
+  text-align: center;
+}
+
+button {
+  font-size: 1.25rem;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+  transition: background-color 0.3s;
+}
+
+/* Card Styling for Dashboard */
+.stat-card {
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 8px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.stat-title {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.stat-value {
+  font-size: 1.25rem;
+  color: #555;
+}
+
+gotoDashboard{
+  align-content: center;
+}
